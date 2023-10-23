@@ -6,4 +6,17 @@ git init = this initialises the repository on the local system file.
 git status = checking what files are committed to the repository
 git remote= connecting the remote repository to this git bash
 
+ 
+git add= added all the files in the selected folder to the repository
+ 
+git commit = committing the files in the folder to the remote repository.
+ 
+git branch= created this branch for a push command
+ 
+git push= this is to push the default branch main
+ 
+git clone= this was to clone my repository in use in-case of a crash.
+
+
+
 
