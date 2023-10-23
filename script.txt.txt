@@ -16,6 +16,11 @@ git branch= created this branch for a push command
 git push= this is to push the default branch main
  
 git clone= this was to clone my repository in use in-case of a crash.
+ 
+git pull= updating the local repository with any changes to the remote repository on github
+ 
+git log= to check what committed snapshots have been logged.
+
 
 
 
