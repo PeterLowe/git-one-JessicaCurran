@@ -1,0 +1,9 @@
+Jessica Curran 
+Git 1
+ 
+git init = this initialises the repository on the local system file.
+ 
+git status = checking what files are committed to the repository
+git remote= connecting the remote repository to this git bash
+
+
